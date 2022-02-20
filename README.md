@@ -1,5 +1,5 @@
 # Emag Game Test
-Composer install
+Composer install &&
 To start the battle, just run index.php. Enjoy!
 
 # Tests
